@@ -1,0 +1,15 @@
+E:\Train\Itransition1\task3\vsproj\task\task\bin\Debug\netcoreapp3.1\task.exe
+E:\Train\Itransition1\task3\vsproj\task\task\bin\Debug\netcoreapp3.1\task.deps.json
+E:\Train\Itransition1\task3\vsproj\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+E:\Train\Itransition1\task3\vsproj\task\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+E:\Train\Itransition1\task3\vsproj\task\task\bin\Debug\netcoreapp3.1\task.dll
+E:\Train\Itransition1\task3\vsproj\task\task\bin\Debug\netcoreapp3.1\task.pdb
+E:\Train\Itransition1\task3\vsproj\task\task\bin\Debug\netcoreapp3.1\HashLib.dll
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.csprojAssemblyReference.cache
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.csproj.CoreCompileInputs.cache
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.csproj.CopyComplete
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.dll
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.pdb
+E:\Train\Itransition1\task3\vsproj\task\task\obj\Debug\netcoreapp3.1\task.genruntimeconfig.cache
